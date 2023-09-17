@@ -1,10 +1,10 @@
 # dalelak
 
-A new Flutter project.
+quran app .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The application of Quran and hadiths of remembrances for the phone also has an electronic rosary using flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
